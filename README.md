@@ -1,3 +1,3 @@
 # DocExtractorAI
 DocExtractorAI
-with llm
+with llm and OCR
